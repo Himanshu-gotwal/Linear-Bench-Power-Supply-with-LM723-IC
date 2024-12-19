@@ -1,4 +1,0 @@
-How It Works:
-Voltage Regulation: The LM723 IC ensures precise voltage control with a potentiometer for adjustments.
-Current Limiting: The 3055 transistor and associated circuitry set and maintain the maximum current, preventing damage to connected devices.
-Real-Time Monitoring: LED displays provide accurate readings of voltage and current outputs.
